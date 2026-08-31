@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 360" role="img" aria-label="让人始终在场">
+  <rect width="1600" height="360" fill="#0a0a0a"/>
+  <g fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" letter-spacing="5">
+    <text x="82" y="72">AI 参与学习 / 判断权始终在人</text>
+  </g>
+  <line x1="82" y1="106" x2="1518" y2="106" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="82" y="236" fill="#ffffff" font-family="Inter, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-4">让人始终在场。</text>
+  <g transform="translate(1452 190)" stroke="#ffffff" fill="none" stroke-width="3">
+    <circle cx="22" cy="22" r="21"/><path d="M12 22h20M22 12v20"/>
+  </g>
+</svg>

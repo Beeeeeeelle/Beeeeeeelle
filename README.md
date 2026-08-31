@@ -1,18 +1,21 @@
-<p>
-  <img src="./assets/hero.svg" alt="AI 进入学习，人保留判断。" width="100%" />
+<p align="right">
+  <strong>English</strong> · <a href="./README.zh-CN.md">中文</a>
 </p>
 
 <p>
-  <img src="./assets/marquee.svg" alt="学习者能动性、人类判断、真实评估、AI 素养与学习设计" width="100%" />
+  <img src="./assets/hero.svg" alt="AI in learning. Humans in charge." width="100%" />
 </p>
 
-## About / 关于我
+<p>
+  <img src="./assets/marquee.svg" alt="Learner agency, human judgment, authentic assessment, AI literacy, and learning design" width="100%" />
+</p>
+
+## About
 
 <table>
   <tr>
     <td width="64%" valign="top">
       <p><strong>AI in learning. Humans in charge.</strong></p>
-      <p>我是 Belle Li：研究人如何与 AI 一起学习，也把研究问题做成量表、课程、网站和开源工具。</p>
       <p>I am a learning scientist and builder. I study what people choose to delegate to AI, what human judgment must retain, and how AI-supported learning can remain authentic, equitable, and agentic. Then I turn those questions into tools and learning environments people can actually use.</p>
       <p><sub>Ross-Lynn Postdoctoral Fellow · Purdue University</sub></p>
       <p>
@@ -28,7 +31,7 @@
   </tr>
 </table>
 
-## Selected work / 精选项目
+## Selected work
 
 <table>
   <tr>
@@ -57,13 +60,13 @@
   </tr>
 </table>
 
-## Open source & experiments / 开源与实验
+## Open source & experiments
 
-- [**Easy Teach AI**](https://github.com/Beeeeeeelle/easy-teach-ai) — 面向教师的证据导向 AI 开放课程，从课堂实践延伸到教育产品设计与学校治理。
-- [**Vibe Board**](https://github.com/Beeeeeeelle/vibe-board) — 帮助学习者从参考网站出发，规划并发布一个有归属感、有反思的个人网站。
-- [**Database Normalization Tutor**](https://github.com/Umerfarooq1/database-normalization-tutor) — 在 CMU LearnLab Summer School 共创的 CTAT 智能导师；AI 可以解释，但教学模型仍掌握评分边界。
+- [**Easy Teach AI**](https://github.com/Beeeeeeelle/easy-teach-ai) — An evidence-aware open course for educators, extending from classroom practice to learning-product design and school AI governance.
+- [**Vibe Board**](https://github.com/Beeeeeeelle/vibe-board) — A reflective pathway for planning and publishing a personal website through vibe coding.
+- [**Database Normalization Tutor**](https://github.com/Umerfarooq1/database-normalization-tutor) — A CTAT tutor co-designed at CMU LearnLab Summer School: AI may explain, while the learning model retains grading authority.
 
-## Research / 研究
+## Research
 
 My research program connects four strands: **learner agency and self-directed learning**, **authenticity and assessment**, **learner heterogeneity and equity**, and **AI literacy and design translation**.
 
@@ -71,7 +74,7 @@ My research program connects four strands: **learner agency and self-directed le
 - [AI-integrated SDL framework](https://doi.org/10.1109/TLT.2024.3386098) — foregrounding trust, support, and computational agency.
 - [Collaborative problem solving with Intel Labs](https://doi.org/10.1016/j.caeai.2025.100393) — award-recognized research on conversational AI-mediated learning.
 
-## Find me / 找到我
+## Find me
 
 [Website](https://www.beeelle.com/) ·
 [Email](mailto:li4808@purdue.edu) ·
