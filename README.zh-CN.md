@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <img src="./assets/hero.zh-CN.svg" alt="AI 参与学习，判断权始终在人。" width="100%" />
+  <img src="./assets/hero.svg" alt="AI in learning. Humans in charge." width="100%" />
 </p>
 
 <p>
@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="64%" valign="top">
-      <p><strong>AI 参与学习，判断权始终在人。</strong></p>
+      <p><strong>AI in learning. Humans in charge.</strong></p>
       <p>我是 Belle Li，一名学习科学研究者和教育产品实践者。我研究学习者会把什么交给 AI、哪些判断必须留在人手中，以及 AI 支持的学习如何保持真实性、公平与能动性。然后，我把这些问题做成量表、课程、网站和开源工具。</p>
       <p><sub>Ross-Lynn 博士后研究员 · 普渡大学</sub></p>
       <p>
@@ -37,22 +37,22 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://ai-education-library.vercel.app/">
-        <img src="./assets/project-ai-library.png" alt="AI 教育资源库" width="100%" />
+        <img src="./assets/ai-education-library-belle黑色彗星/02-curation-path-final.png" alt="Belle 将 AI 学习资源整理为可用路径" width="100%" />
       </a>
       <br />
       <strong>01 / AI 教育资源库</strong><br />
-      <sub>内容策展 · 教学 · 开放网络</sub>
+      <sub>CURATION · TEACHING · OPEN WEB</sub>
       <p>一个围绕教师、学习者与学习设计者组织的公共资源库，而不是又一份泛泛的 AI 工具清单。</p>
       <a href="https://ai-education-library.vercel.app/">访问网站 ↗</a> ·
       <a href="https://github.com/Beeeeeeelle/ai-education-library">GitHub ↗</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.beeelle.com/ask-belle-course.html">
-        <img src="./assets/project-ask-belle-course.png" alt="Ask Belle：从代码库到课程" width="100%" />
+        <img src="./assets/ask-belle-belle黑色彗星/01-grounded-boundary-final.png" alt="Ask Belle 依据已发布来源核验问题后再回答" width="100%" />
       </a>
       <br />
       <strong>02 / Ask Belle</strong><br />
-      <sub>可信问答 · 课程 · CODEX SKILL</sub>
+      <sub>GROUNDED AI · COURSE · CODEX SKILL</sub>
       <p>一个有知识边界的网站助手、一项开放的 Codex Skill，以及一门解释“有边界的 AI 为什么有效”的五模块课程。</p>
       <a href="https://www.beeelle.com/ask-belle-course.html">学习课程 ↗</a> ·
       <a href="https://github.com/Beeeeeeelle/ask-belle-site-chatbot">GitHub ↗</a>
@@ -83,5 +83,5 @@
 [简历](https://app.box.com/s/ao2hzfhxe97p9vgzv6lvahm6794xd0vx)
 
 <p>
-  <img src="./assets/footer.zh-CN.svg" alt="让人始终在场" width="100%" />
+  <img src="./assets/footer.svg" alt="Keep people in the loop" width="100%" />
 </p>
