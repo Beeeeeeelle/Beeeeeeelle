@@ -57,6 +57,23 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <a href="https://beeeeeeelle.github.io/scholar-in-motion/">
+        <img src="./assets/project-scholar-in-motion.png" alt="Scholar in Motion 学术作品集模板" width="100%" />
+      </a>
+      <br />
+      <strong>03 / Scholar in Motion</strong><br />
+      <sub>ACADEMIC WEB · JEKYLL · OPEN SOURCE TEMPLATE</sub>
+      <p>一个以叙事为先的开源学术作品集模板，帮助研究者把研究、教学、服务与设计组织成连贯的知识故事。</p>
+      <a href="https://beeeeeeelle.github.io/scholar-in-motion/">查看示例 ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/scholar-in-motion/generate">使用模板 ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/scholar-in-motion">GitHub ↗</a>
+    </td>
+  </tr>
+</table>
+
 ## 开源与实验
 
 - [**Easy Teach AI**](https://github.com/Beeeeeeelle/easy-teach-ai) — 面向教师的证据导向 AI 开放课程，从课堂实践延伸到教育产品设计与学校治理。

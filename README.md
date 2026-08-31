@@ -57,6 +57,23 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <a href="https://beeeeeeelle.github.io/scholar-in-motion/">
+        <img src="./assets/project-scholar-in-motion.png" alt="Scholar in Motion academic portfolio template" width="100%" />
+      </a>
+      <br />
+      <strong>03 / Scholar in Motion</strong><br />
+      <sub>ACADEMIC WEB · JEKYLL · OPEN SOURCE TEMPLATE</sub>
+      <p>A narrative-first academic portfolio template for researchers whose work moves across scholarship, teaching, service, and design.</p>
+      <a href="https://beeeeeeelle.github.io/scholar-in-motion/">Live demo ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/scholar-in-motion/generate">Use this template ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/scholar-in-motion">GitHub ↗</a>
+    </td>
+  </tr>
+</table>
+
 ## Open source & experiments
 
 - [**Easy Teach AI**](https://github.com/Beeeeeeelle/easy-teach-ai) — An evidence-aware open course for educators, extending from classroom practice to learning-product design and school AI governance.
