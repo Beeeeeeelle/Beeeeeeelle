@@ -41,7 +41,7 @@
       <sub>CURATION · TEACHING · OPEN WEB</sub>
       <p>A practical library of videos, tools, resources, and prompt patterns for teaching, study, and course design.</p>
       <a href="https://ai-education-library.vercel.app/">Live site ↗</a> ·
-      <a href="https://github.com/Beeeeelle/ai-education-library">GitHub ↗</a>
+      <a href="https://github.com/Beeeeeeelle/ai-education-library">GitHub ↗</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.beeelle.com/ask-belle-course.html">
@@ -52,15 +52,15 @@
       <sub>GROUNDED AI · COURSE · CODEX SKILL</sub>
       <p>A bounded website assistant, a five-module codebase course, and an open skill for planning grounded chatbots.</p>
       <a href="https://www.beeelle.com/ask-belle-course.html">Take the course ↗</a> ·
-      <a href="https://github.com/Beeeeelle/ask-belle-site-chatbot">GitHub ↗</a>
+      <a href="https://github.com/Beeeeeeelle/ask-belle-site-chatbot">GitHub ↗</a>
     </td>
   </tr>
 </table>
 
 ## More builds / 更多作品
 
-- [**Easy Teach AI**](https://github.com/Beeeeelle/easy-teach-ai) — 面向教师的证据导向 AI 开放课程，从课堂实践延伸到教育产品与学校治理。
-- [**Vibe Board**](https://github.com/Beeeeelle/vibe-board) — 帮助学生从参考网站出发，完成有归属感、有反思的 vibe-coding 创作。
+- [**Easy Teach AI**](https://github.com/Beeeeeeelle/easy-teach-ai) — 面向教师的证据导向 AI 开放课程，从课堂实践延伸到教育产品与学校治理。
+- [**Vibe Board**](https://github.com/Beeeeeeelle/vibe-board) — 帮助学生从参考网站出发，完成有归属感、有反思的 vibe-coding 创作。
 - [**Database Normalization Tutor**](https://github.com/Umerfarooq1/database-normalization-tutor) — 在 CMU LearnLab Summer School 共创的 CTAT 智能导师，保留明确的教学与评分边界。
 
 ## Research / 研究
