@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td width="64%" valign="top">
+    <td width="100%" valign="top">
       <p><strong>AI in learning. Humans in charge.</strong></p>
       <p>我是 Belle Li，一名学习科学研究者和教育产品实践者。我研究学习者会把什么交给 AI、哪些判断必须留在人手中，以及 AI 支持的学习如何保持真实性、公平与能动性。然后，我把这些问题做成量表、课程、网站和开源工具。</p>
       <p><sub>Ross-Lynn 博士后研究员 · 普渡大学</sub></p>
@@ -24,9 +24,6 @@
         <a href="https://www.beeelle.com/publications/">出版物</a> ·
         <a href="https://scholar.google.com/citations?user=82kWgvMAAAAJ&amp;hl=en">Google Scholar</a>
       </p>
-    </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="./assets/belle-black-comet.jpg" alt="Belle 黑色彗星" width="280" />
     </td>
   </tr>
 </table>

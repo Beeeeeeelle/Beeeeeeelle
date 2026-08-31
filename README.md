@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td width="64%" valign="top">
+    <td width="100%" valign="top">
       <p><strong>AI in learning. Humans in charge.</strong></p>
       <p>I am a learning scientist and builder. I study what people choose to delegate to AI, what human judgment must retain, and how AI-supported learning can remain authentic, equitable, and agentic. Then I turn those questions into tools and learning environments people can actually use.</p>
       <p><sub>Ross-Lynn Postdoctoral Fellow · Purdue University</sub></p>
@@ -24,9 +24,6 @@
         <a href="https://www.beeelle.com/publications/">Publications</a> ·
         <a href="https://scholar.google.com/citations?user=82kWgvMAAAAJ&amp;hl=en">Google Scholar</a>
       </p>
-    </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="./assets/belle-black-comet.jpg" alt="Belle 黑色彗星" width="280" />
     </td>
   </tr>
 </table>
