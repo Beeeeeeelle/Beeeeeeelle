@@ -37,7 +37,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://ai-education-library.vercel.app/">
-        <img src="./assets/ai-education-library-belle黑色彗星/02-curation-path-final.png" alt="Belle curates AI learning resources into classroom-ready paths" width="100%" />
+        <img src="./assets/project-ai-library.png" alt="AI for Education Resource Library" width="100%" />
       </a>
       <br />
       <strong>01 / AI for Education Resource Library</strong><br />
@@ -48,7 +48,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://www.beeelle.com/ask-belle-course.html">
-        <img src="./assets/ask-belle-belle黑色彗星/01-grounded-boundary-final.png" alt="Ask Belle checks a question against published sources before answering" width="100%" />
+        <img src="./assets/project-ask-belle-course.png" alt="Ask Belle Codebase to Course" width="100%" />
       </a>
       <br />
       <strong>02 / Ask Belle</strong><br />
