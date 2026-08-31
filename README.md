@@ -11,9 +11,9 @@
 <table>
   <tr>
     <td width="64%" valign="top">
-      <p><strong>I study how people learn with, through, and about AI.</strong></p>
-      <p>我是 Belle Li，一名学习科学研究者、教育设计者，也是会把想法做成东西的 builder。</p>
-      <p>My work asks how AI can support learning without displacing human agency. I move between empirical research and design practice—studying learner differences, authentic assessment, equity, and AI literacy, then translating evidence into tools, courses, and learning environments people can actually use.</p>
+      <p><strong>AI in learning. Humans in charge.</strong></p>
+      <p>我是 Belle Li：研究人如何与 AI 一起学习，也把研究问题做成量表、课程、网站和开源工具。</p>
+      <p>I am a learning scientist and builder. I study what people choose to delegate to AI, what human judgment must retain, and how AI-supported learning can remain authentic, equitable, and agentic. Then I turn those questions into tools and learning environments people can actually use.</p>
       <p><sub>Ross-Lynn Postdoctoral Fellow · Purdue University</sub></p>
       <p>
         <a href="https://www.beeelle.com/">Website</a> ·
@@ -39,7 +39,7 @@
       <br />
       <strong>01 / AI for Education Resource Library</strong><br />
       <sub>CURATION · TEACHING · OPEN WEB</sub>
-      <p>A practical library of videos, tools, resources, and prompt patterns for teaching, study, and course design.</p>
+      <p>A curated public library organized around teachers, learners, and learning designers—not another generic list of AI tools.</p>
       <a href="https://ai-education-library.vercel.app/">Live site ↗</a> ·
       <a href="https://github.com/Beeeeeeelle/ai-education-library">GitHub ↗</a>
     </td>
@@ -50,18 +50,18 @@
       <br />
       <strong>02 / Ask Belle</strong><br />
       <sub>GROUNDED AI · COURSE · CODEX SKILL</sub>
-      <p>A bounded website assistant, a five-module codebase course, and an open skill for planning grounded chatbots.</p>
+      <p>A grounded website assistant, an open Codex skill, and a five-module course showing why bounded AI works.</p>
       <a href="https://www.beeelle.com/ask-belle-course.html">Take the course ↗</a> ·
       <a href="https://github.com/Beeeeeeelle/ask-belle-site-chatbot">GitHub ↗</a>
     </td>
   </tr>
 </table>
 
-## More builds / 更多作品
+## Open source & experiments / 开源与实验
 
-- [**Easy Teach AI**](https://github.com/Beeeeeeelle/easy-teach-ai) — 面向教师的证据导向 AI 开放课程，从课堂实践延伸到教育产品与学校治理。
-- [**Vibe Board**](https://github.com/Beeeeeeelle/vibe-board) — 帮助学生从参考网站出发，完成有归属感、有反思的 vibe-coding 创作。
-- [**Database Normalization Tutor**](https://github.com/Umerfarooq1/database-normalization-tutor) — 在 CMU LearnLab Summer School 共创的 CTAT 智能导师，保留明确的教学与评分边界。
+- [**Easy Teach AI**](https://github.com/Beeeeeeelle/easy-teach-ai) — 面向教师的证据导向 AI 开放课程，从课堂实践延伸到教育产品设计与学校治理。
+- [**Vibe Board**](https://github.com/Beeeeeeelle/vibe-board) — 帮助学习者从参考网站出发，规划并发布一个有归属感、有反思的个人网站。
+- [**Database Normalization Tutor**](https://github.com/Umerfarooq1/database-normalization-tutor) — 在 CMU LearnLab Summer School 共创的 CTAT 智能导师；AI 可以解释，但教学模型仍掌握评分边界。
 
 ## Research / 研究
 
