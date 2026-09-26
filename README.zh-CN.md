@@ -74,16 +74,27 @@
   </tr>
 </table>
 
-## 研究工具
+<a name="research-skills"></a>
 
-两项可复用的文献综述 Agent Skill，串起 **获取并核对全文 → 审查证据 → 追溯判断**。可以独立使用，也可以衔接；研究规则与最终判断始终由研究者掌握。
-
-- [**Literature PDF Retrieval**](https://github.com/Beeeeeeelle/literature-pdf-retrieval) — 从文献清单出发，通过公开来源与获授权的机构访问获取全文、核对 PDF 身份，明确需要人工登录或下载的步骤，并保留检索记录，方便中断后接续。
-- [**Review Evidence Workflow**](https://github.com/Beeeeeeelle/review-evidence-workflow) — 将团队制定的编码规则与 PDF 组织为个性化浏览器工作台，支持全文筛选、质量评价与信息提取。研究者可独立编码或核验 AI 建议，汇总各人的反馈，并让每项判断可回溯到原文证据。
-
-[五分钟介绍 · 中文 / EN ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md) ·
-[观看工作台演示 ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md) ·
-[试用示例 ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md)
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.zh-CN.md">
+        <img src="./assets/project-review-evidence-workflow.jpg" alt="Review Evidence Workflow 试点演示：并排查看筛选判断与原始 PDF" width="100%" />
+      </a>
+      <br />
+      <strong>04 / Review Evidence Workflow + PDF Retrieval</strong><br />
+      <sub>RESEARCH TOOLS · HUMAN JUDGMENT · AGENT SKILLS</sub>
+      <p>从获取全文，到形成可追溯的文献审查判断。两项可复用的 Skill，将文献准备与人工主导的筛选、质量评价和信息提取衔接起来，也支持独立使用。</p>
+      <p><a href="https://github.com/Beeeeeeelle/literature-pdf-retrieval"><strong>Literature PDF Retrieval</strong></a> 获取并核对全文，保留检索记录，并明确需要人工登录或下载的步骤。</p>
+      <p><a href="https://github.com/Beeeeeeelle/review-evidence-workflow"><strong>Review Evidence Workflow</strong></a> 将团队制定的编码规则与 PDF 组织为个性化浏览器工作台，支持独立编码或核验 AI 建议，让原文证据与各人的审查反馈保持可追溯。</p>
+      <p><sub>图为实际试点审查工作台的演示模式。<a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/PROVENANCE.md">截图来源说明</a>。</sub></p>
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.zh-CN.md">五分钟介绍 · 中文 / EN ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.zh-CN.md">观看工作台演示 ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md">试用示例 ↗</a>
+    </td>
+  </tr>
+</table>
 
 ## 开源与实验
 

@@ -74,16 +74,27 @@
   </tr>
 </table>
 
-## Research skills
+<a name="research-skills"></a>
 
-Two reusable agent skills for literature reviews: **find and check full texts → review evidence → keep decisions traceable**. Use either on its own or connect them, with researchers setting the rules and making the final judgments.
-
-- [**Literature PDF Retrieval**](https://github.com/Beeeeeeelle/literature-pdf-retrieval) — Turn a study list into checked full texts through public and authorized institutional sources, with PDF identity checks, clear human access handoffs, and a retrieval log that lets work resume where it stopped.
-- [**Review Evidence Workflow**](https://github.com/Beeeeeeelle/review-evidence-workflow) — Turn human-developed coding rules and PDFs into personalized browser workbenches for screening, appraisal, and extraction. Support independent coding or AI-assisted verification, compare reviewer returns, and trace decisions back to source evidence.
-
-[Five-minute introduction · EN / 中文 ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md) ·
-[Watch the workbench ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md) ·
-[Try the examples ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md)
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md">
+        <img src="./assets/project-review-evidence-workflow.jpg" alt="Review Evidence Workflow pilot demonstration: screening decisions beside the original PDF" width="100%" />
+      </a>
+      <br />
+      <strong>04 / Review Evidence Workflow + PDF Retrieval</strong><br />
+      <sub>RESEARCH TOOLS · HUMAN JUDGMENT · AGENT SKILLS</sub>
+      <p>From full texts to traceable review decisions. Two reusable skills connect source preparation with human-led screening, appraisal, and extraction; use them together or independently.</p>
+      <p><a href="https://github.com/Beeeeeeelle/literature-pdf-retrieval"><strong>Literature PDF Retrieval</strong></a> finds and checks full texts, records retrieval attempts, and makes human access handoffs explicit.</p>
+      <p><a href="https://github.com/Beeeeeeelle/review-evidence-workflow"><strong>Review Evidence Workflow</strong></a> turns human-developed coding rules and PDFs into personalized browser workbenches for independent coding or AI-assisted verification, with source-linked evidence and traceable reviewer returns.</p>
+      <p><sub>Shown: the actual pilot review workbench in demonstration mode. <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/PROVENANCE.md">Screenshot provenance</a>.</sub></p>
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md">Five-minute introduction · EN / 中文 ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md">Watch the workbench ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md">Try the examples ↗</a>
+    </td>
+  </tr>
+</table>
 
 ## Open source & experiments
 
