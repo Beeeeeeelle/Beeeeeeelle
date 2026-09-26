@@ -74,6 +74,17 @@
   </tr>
 </table>
 
+## 研究工具
+
+两项可复用的文献综述 Agent Skill，串起 **获取并核对全文 → 审查证据 → 追溯判断**。可以独立使用，也可以衔接；研究规则与最终判断始终由研究者掌握。
+
+- [**Literature PDF Retrieval**](https://github.com/Beeeeeeelle/literature-pdf-retrieval) — 从文献清单出发，通过公开来源与获授权的机构访问获取全文、核对 PDF 身份，明确需要人工登录或下载的步骤，并保留检索记录，方便中断后接续。
+- [**Review Evidence Workflow**](https://github.com/Beeeeeeelle/review-evidence-workflow) — 将团队制定的编码规则与 PDF 组织为个性化浏览器工作台，支持全文筛选、质量评价与信息提取。研究者可独立编码或核验 AI 建议，汇总各人的反馈，并让每项判断可回溯到原文证据。
+
+[五分钟介绍 · 中文 / EN ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md) ·
+[观看工作台演示 ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md) ·
+[试用示例 ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md)
+
 ## 开源与实验
 
 - [**Easy Teach AI**](https://github.com/Beeeeeeelle/easy-teach-ai) — 面向教师的证据导向 AI 开放课程，从课堂实践延伸到教育产品设计与学校治理。

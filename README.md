@@ -74,6 +74,17 @@
   </tr>
 </table>
 
+## Research skills
+
+Two reusable agent skills for literature reviews: **find and check full texts → review evidence → keep decisions traceable**. Use either on its own or connect them, with researchers setting the rules and making the final judgments.
+
+- [**Literature PDF Retrieval**](https://github.com/Beeeeeeelle/literature-pdf-retrieval) — Turn a study list into checked full texts through public and authorized institutional sources, with PDF identity checks, clear human access handoffs, and a retrieval log that lets work resume where it stopped.
+- [**Review Evidence Workflow**](https://github.com/Beeeeeeelle/review-evidence-workflow) — Turn human-developed coding rules and PDFs into personalized browser workbenches for screening, appraisal, and extraction. Support independent coding or AI-assisted verification, compare reviewer returns, and trace decisions back to source evidence.
+
+[Five-minute introduction · EN / 中文 ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md) ·
+[Watch the workbench ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md) ·
+[Try the examples ↗](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md)
+
 ## Open source & experiments
 
 - [**Easy Teach AI**](https://github.com/Beeeeeeelle/easy-teach-ai) — An evidence-aware open course for educators, extending from classroom practice to learning-product design and school AI governance.
