@@ -78,13 +78,11 @@
       </a>
       <br />
       <strong>04 / Review Evidence Workflow + PDF Retrieval</strong><br />
-      <sub>RESEARCH TOOLS · HUMAN JUDGMENT · AGENT SKILLS</sub>
-      <p>Two reusable skills take review teams from checked PDFs to source-linked screening, appraisal, and extraction, with people setting the rules and making decisions.</p>
+      <sub>RESEARCH · HUMAN JUDGMENT · AGENT SKILLS</sub>
+      <p>Two connected skills take reviews from checked PDFs to source-linked screening, appraisal, and extraction, with researchers making the decisions.</p>
       <a href="https://github.com/Beeeeeeelle/literature-pdf-retrieval">PDF Retrieval ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow">Evidence Workflow ↗</a><br />
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md">Introduction · EN / 中文 ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md">Workbench demo ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md">Try examples ↗</a><br />
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow">Evidence Workflow ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md">Demo ↗</a><br />
       <sub>Actual pilot workbench in demo mode · <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/PROVENANCE.md">Image source</a></sub>
     </td>
   </tr>

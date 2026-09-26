@@ -78,13 +78,11 @@
       </a>
       <br />
       <strong>04 / Review Evidence Workflow + PDF Retrieval</strong><br />
-      <sub>RESEARCH TOOLS · HUMAN JUDGMENT · AGENT SKILLS</sub>
-      <p>两项可复用的 Skill，将核对全文与有原文依据的筛选、质量评价和信息提取衔接起来；规则和最终判断由研究者掌握。</p>
+      <sub>RESEARCH · HUMAN JUDGMENT · AGENT SKILLS</sub>
+      <p>两项相连的 Skill，从核对全文走到有原文依据的筛选、评价与提取；规则和结果由研究者决定。</p>
       <a href="https://github.com/Beeeeeeelle/literature-pdf-retrieval">PDF Retrieval ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow">Evidence Workflow ↗</a><br />
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.zh-CN.md">项目介绍 · 中文 / EN ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.zh-CN.md">工作台演示 ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md">试用示例 ↗</a><br />
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow">Evidence Workflow ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.zh-CN.md">演示 ↗</a><br />
       <sub>实际试点工作台演示模式 · <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/PROVENANCE.md">截图来源</a></sub>
     </td>
   </tr>
