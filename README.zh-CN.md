@@ -59,7 +59,7 @@
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://beeeeeeelle.github.io/scholar-in-motion/">
         <img src="./assets/project-scholar-in-motion.png" alt="Scholar in Motion 学术作品集模板" width="100%" />
       </a>
@@ -71,27 +71,21 @@
       <a href="https://github.com/Beeeeeeelle/scholar-in-motion/generate">使用模板 ↗</a> ·
       <a href="https://github.com/Beeeeeeelle/scholar-in-motion">GitHub ↗</a>
     </td>
-  </tr>
-</table>
-
-<a name="research-skills"></a>
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
+      <a name="research-skills"></a>
       <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.zh-CN.md">
         <img src="./assets/project-review-evidence-workflow.jpg" alt="Review Evidence Workflow 试点演示：并排查看筛选判断与原始 PDF" width="100%" />
       </a>
       <br />
       <strong>04 / Review Evidence Workflow + PDF Retrieval</strong><br />
       <sub>RESEARCH TOOLS · HUMAN JUDGMENT · AGENT SKILLS</sub>
-      <p>从获取全文，到形成可追溯的文献审查判断。两项可复用的 Skill，将文献准备与人工主导的筛选、质量评价和信息提取衔接起来，也支持独立使用。</p>
-      <p><a href="https://github.com/Beeeeeeelle/literature-pdf-retrieval"><strong>Literature PDF Retrieval</strong></a> 获取并核对全文，保留检索记录，并明确需要人工登录或下载的步骤。</p>
-      <p><a href="https://github.com/Beeeeeeelle/review-evidence-workflow"><strong>Review Evidence Workflow</strong></a> 将团队制定的编码规则与 PDF 组织为个性化浏览器工作台，支持独立编码或核验 AI 建议，让原文证据与各人的审查反馈保持可追溯。</p>
-      <p><sub>图为实际试点审查工作台的演示模式。<a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/PROVENANCE.md">截图来源说明</a>。</sub></p>
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.zh-CN.md">五分钟介绍 · 中文 / EN ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.zh-CN.md">观看工作台演示 ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md">试用示例 ↗</a>
+      <p>两项可复用的 Skill，将核对全文与有原文依据的筛选、质量评价和信息提取衔接起来；规则和最终判断由研究者掌握。</p>
+      <a href="https://github.com/Beeeeeeelle/literature-pdf-retrieval">PDF Retrieval ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow">Evidence Workflow ↗</a><br />
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.zh-CN.md">项目介绍 · 中文 / EN ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.zh-CN.md">工作台演示 ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md">试用示例 ↗</a><br />
+      <sub>实际试点工作台演示模式 · <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/PROVENANCE.md">截图来源</a></sub>
     </td>
   </tr>
 </table>

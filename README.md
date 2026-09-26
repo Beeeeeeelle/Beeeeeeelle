@@ -59,7 +59,7 @@
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://beeeeeeelle.github.io/scholar-in-motion/">
         <img src="./assets/project-scholar-in-motion.png" alt="Scholar in Motion academic portfolio template" width="100%" />
       </a>
@@ -71,27 +71,21 @@
       <a href="https://github.com/Beeeeeeelle/scholar-in-motion/generate">Use this template ↗</a> ·
       <a href="https://github.com/Beeeeeeelle/scholar-in-motion">GitHub ↗</a>
     </td>
-  </tr>
-</table>
-
-<a name="research-skills"></a>
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
+      <a name="research-skills"></a>
       <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md">
         <img src="./assets/project-review-evidence-workflow.jpg" alt="Review Evidence Workflow pilot demonstration: screening decisions beside the original PDF" width="100%" />
       </a>
       <br />
       <strong>04 / Review Evidence Workflow + PDF Retrieval</strong><br />
       <sub>RESEARCH TOOLS · HUMAN JUDGMENT · AGENT SKILLS</sub>
-      <p>From full texts to traceable review decisions. Two reusable skills connect source preparation with human-led screening, appraisal, and extraction; use them together or independently.</p>
-      <p><a href="https://github.com/Beeeeeeelle/literature-pdf-retrieval"><strong>Literature PDF Retrieval</strong></a> finds and checks full texts, records retrieval attempts, and makes human access handoffs explicit.</p>
-      <p><a href="https://github.com/Beeeeeeelle/review-evidence-workflow"><strong>Review Evidence Workflow</strong></a> turns human-developed coding rules and PDFs into personalized browser workbenches for independent coding or AI-assisted verification, with source-linked evidence and traceable reviewer returns.</p>
-      <p><sub>Shown: the actual pilot review workbench in demonstration mode. <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/PROVENANCE.md">Screenshot provenance</a>.</sub></p>
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md">Five-minute introduction · EN / 中文 ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md">Watch the workbench ↗</a> ·
-      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md">Try the examples ↗</a>
+      <p>Two reusable skills take review teams from checked PDFs to source-linked screening, appraisal, and extraction, with people setting the rules and making decisions.</p>
+      <a href="https://github.com/Beeeeeeelle/literature-pdf-retrieval">PDF Retrieval ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow">Evidence Workflow ↗</a><br />
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md">Introduction · EN / 中文 ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/README.md">Workbench demo ↗</a> ·
+      <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/TRY_DEMOS.md">Try examples ↗</a><br />
+      <sub>Actual pilot workbench in demo mode · <a href="https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/demo/PROVENANCE.md">Image source</a></sub>
     </td>
   </tr>
 </table>
